@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: left;
+    margin-top: 30px;
+    color: rgb(207, 1, 1);
+    font-family: "Faster One", cursive;
+    font-size: 7rem;
+}
+
+.container-fluid {
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    padding: 5px 25px;
+    text-align: center;
+}
+
+#message {
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.fizzbuzz {
+    background-color: rgb(53, 84, 186);
+}
+
+.fizz {
+    background-color: rgb(104, 50, 104);
+}
+
+.buzz {
+    background-color: rgb(48, 107, 48);
+}
+
+span {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    background-color: orange;
+    padding-top: 30px;
+}
